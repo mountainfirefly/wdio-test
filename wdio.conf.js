@@ -55,7 +55,7 @@ exports.config = {
         browserName: 'chrome',
         acceptInsecureCerts: true,
         'goog:chromeOptions': { 
-            binary: '/Applications/Brave\ Browser.app/Contents/MacOS/Brave\ Browser',
+            binary: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
             // args: ["--headless", "user-agent=...","--disable-gpu","--window-size=1440,735"]
         },
         // If outputDir is provided WebdriverIO can capture driver session logs
